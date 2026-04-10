@@ -59,8 +59,8 @@ The LCD displays real-time sensor values locally, enabling both on-site and remo
 ---
 
 ## 📸 Output
-*(Add your project output images here)*
 
+![Output Image](images/output.jpg)
 - LCD Display Output  
 - Blynk Dashboard Monitoring  
 
